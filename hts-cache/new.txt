@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:48:12	76387/76387	---MCZ	200	added ('OK')	text/html	date:Sun,%2008%20Nov%202020%2009:48:11%20GMT	https://sites.google.com/corp/view/xintan	/Users/liuyingjie/websites/abc/sites.google.com/corp/view/xintan.html	(from )
+17:48:13	67/67	---MCZ	200	added ('OK')	text/plain	date:Sun,%2008%20Nov%202020%2009:48:12%20GMT	https://sites.google.com/robots.txt		(from )
+17:48:14	76463/76463	---MCZ	200	added ('OK')	text/html	date:Sun,%2008%20Nov%202020%2009:48:14%20GMT	https://sites.google.com/corp/view/xintan/%e9%a6%96%e9%a1%b5	/Users/liuyingjie/websites/abc/sites.google.com/corp/view/xintan/%e9%a6%96%e9%a1%b5.html	(from https://sites.google.com/corp/view/xintan)
